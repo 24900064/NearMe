@@ -1,4 +1,3 @@
-![Screenshot 2025-05-11 210414](https://github.com/user-attachments/assets/4c770eaf-8e87-4ef3-a937-94fba17a76fb)# Ex04 Places Around Me
 ## Date: 11.05.2025
 
 ## AIM
@@ -25,7 +24,8 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-'''
+
+```
 map.html
 <html>
 <head>
@@ -285,7 +285,7 @@ forum.html
 
 </body>
 </html>
-'''
+```
 
 ## OUTPUT
 
